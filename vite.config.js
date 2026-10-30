@@ -24,12 +24,6 @@ export default defineConfig({
             sizes: 'any',
             type: 'image/svg+xml',
             purpose: 'any'
-          },
-          {
-    src: "/calendar-512.svg",
-    sizes: "512x512",
-    type: "image/svg+xml",
-    purpose: "any"
           }
         ]
       },
